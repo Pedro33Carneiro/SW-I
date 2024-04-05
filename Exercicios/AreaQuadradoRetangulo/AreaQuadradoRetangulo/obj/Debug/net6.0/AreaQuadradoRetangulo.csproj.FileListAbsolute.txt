@@ -1,0 +1,5 @@
+C:\Users\LAB4\Desktop\Exercicios\AreaQuadradoRetangulo\AreaQuadradoRetangulo\obj\Debug\net6.0\AreaQuadradoRetangulo.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Exercicios\AreaQuadradoRetangulo\AreaQuadradoRetangulo\obj\Debug\net6.0\AreaQuadradoRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Exercicios\AreaQuadradoRetangulo\AreaQuadradoRetangulo\obj\Debug\net6.0\AreaQuadradoRetangulo.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Exercicios\AreaQuadradoRetangulo\AreaQuadradoRetangulo\obj\Debug\net6.0\AreaQuadradoRetangulo.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Exercicios\AreaQuadradoRetangulo\AreaQuadradoRetangulo\obj\Debug\net6.0\AreaQuadradoRetangulo.csproj.CoreCompileInputs.cache
